@@ -2,7 +2,7 @@
 
 /**
  * main -main function
- *
+ * computer is working good
  * Return: 0 on success
  */
 
